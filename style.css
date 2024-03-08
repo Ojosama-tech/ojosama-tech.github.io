@@ -1,11 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{
- font: 14px/1.6 "Hiragino Kaku Gothic Pro",Osaka,"メイリオ","ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
- margin:100px;
- color:#111111;
- }
-.content{
- maegin-left:70;
+html{
+ background-color: yellow;
+ margin: 300px;
 }
